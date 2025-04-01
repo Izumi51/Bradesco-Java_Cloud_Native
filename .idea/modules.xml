@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bradesco-Java_Cloud_Native.iml" filepath="$PROJECT_DIR$/Bradesco-Java_Cloud_Native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/praticing/praticing.iml" filepath="$PROJECT_DIR$/praticing/praticing.iml" />
+    </modules>
+  </component>
+</project>
